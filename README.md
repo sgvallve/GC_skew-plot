@@ -2,7 +2,7 @@
 Plot a GC skew to look for the origin of replication of a bacterial genome.
 
 The GCskew.ipynb file contains a jupyter notebook that uses Biopython and Matplotlib.
-The input can be a fasta file with the complete genome sequence of a bacteria. These files are available for example in the GenBank database (see for example https://www.ncbi.nlm.nih.gov/nuccore/CP000708.1?report=fasta&log$=seqview&format=text). Alternatively you can download the file from the Genbank ID (for example NC_009505.1), using the Entrez module of Biopython.
+The input can be a fasta file with the complete genome sequence of a bacteria. These files are available, for example, in the GenBank database (see for example the Bacteroides_thet.fta file or download it from [https://www.ncbi.nlm.nih.gov/nuccore/CP000708.1?report=fasta&log$=seqview&format=text](https://www.ncbi.nlm.nih.gov/nuccore/NC_004663.1?report=fasta&log$=seqview&format=text)). Alternatively you can download the file from the Genbank ID (for example NC_009505.1), using the Entrez module of Biopython.
 
 The window_size and window_pass are two of the variables that can be changed. 
 
